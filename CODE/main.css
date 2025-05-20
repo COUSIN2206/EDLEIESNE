@@ -1,0 +1,34 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: "oswald";
+  color: orange;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: "oswald";
+  color: green;
+  font-weight: bolder;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+img{
+  width:500px;
+  }
+
+  .sun{
+    width:100px;
+    }
