@@ -6,16 +6,16 @@ body{
   font-family: Helvetica;
 }
 h1{
-  font-family: Courier;
-  color: red;
+  font-family: "oswald";
+  color: orange;
   font-weight: lighter;
-  font-size: 50px;
+  font-size: 40px;
 }
 h2 {
-  font-family: Courier;
-  color: pink;
-  font-weight: lighter;
-  font-size: 8px;
+  font-family: "oswald";
+  color: green;
+  font-weight: bolder;
+  font-size: 30px;
 }
 a {
   color: yellow;
@@ -24,3 +24,11 @@ a:hover {
   text-decoration: none;
   color: purple;
 }
+
+img{
+  width:500px;
+  }
+
+  .sun{
+    width:100px;
+    }
